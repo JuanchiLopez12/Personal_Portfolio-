@@ -1,0 +1,1 @@
+This is the code for my personal portfolio. I will be displaying my projects, a breif description of myself and how to contact me. The portfolio itself will use html, css, javascript. I might in the future include react for the UI. 
